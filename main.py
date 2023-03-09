@@ -11,3 +11,6 @@ def goodbye():
 
 def third_function():
     print('Another function')
+    
+def my_code():
+    print('My function')
