@@ -9,3 +9,5 @@ def print_nums():
 def goodbye():
     print('Goodbye world...')
 
+def third_function():
+    print('Another function')
